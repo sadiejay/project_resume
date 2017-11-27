@@ -86,3 +86,14 @@ header p {
     list-style-type: none;
     line-height: 150%;
 }
+
+@media (min-width: 680px) {
+    body {
+      background-color: #0a1f23;
+    }
+    .container {
+        width: 85%;
+        background-color: #f0f3f5;
+        margin: 0 auto;
+    }
+}
