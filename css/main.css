@@ -1,0 +1,28 @@
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Zilla Slab', serif;
+*/
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+::before,
+::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #f0f3f5;
+    font-family: 'Montserrat', sans-serif;
+    color: #0a1f23;
+}
+
+header,
+h2 {
+    color: #7B2D26;
+    font-family: 'Zilla Slab', serif;
+}
