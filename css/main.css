@@ -50,3 +50,12 @@ header p {
 .work ul li {
     padding: .3rem 0;
 }
+
+.edu--container {
+    display: flex;
+
+}
+
+.edu--container div {
+  flex: 1 1 auto;
+}
