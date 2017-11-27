@@ -63,6 +63,7 @@ header p {
 .skills--container ul {
     display: flex;
     justify-content: center;
+    padding: 0;
 }
 
 .skills--container ul li {
