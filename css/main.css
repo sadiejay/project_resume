@@ -22,12 +22,12 @@ body {
 }
 
 .container {
-    padding: .75rem;
+    padding: 0.75rem;
 }
 
 header,
 h2 {
-    color: #7B2D26;
+    color: #7b2d26;
     font-family: 'Zilla Slab', serif;
     text-align: center;
 }
@@ -35,6 +35,10 @@ h2 {
 header {
     font-size: 2.5rem;
     font-weight: 900;
+}
+
+h1 {
+    background-color: rgba(240, 243, 245, 0.85);
 }
 
 header img {
@@ -48,7 +52,7 @@ header p {
 }
 
 .work ul li {
-    padding: .3rem 0;
+    padding: 0.3rem 0;
 }
 
 .edu--container {
@@ -57,7 +61,7 @@ header p {
 }
 
 .edu--container div {
-  flex: 1 1 auto;
+    flex: 1 1 auto;
 }
 
 .skills--container ul {
