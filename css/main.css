@@ -97,3 +97,25 @@ header p {
         margin: 0 auto;
     }
 }
+
+@media (min-width: 980px) {
+    body {
+      background-color: #0a1f23;
+    }
+    .container {
+        width: 80%;
+        background-color: #f0f3f5;
+        margin: 0 auto;
+    }
+
+    .edu--container {
+      justify-content: center;
+      align-items: center;
+      align-content: stretch;
+    }
+
+    .skills--container ul{
+      display: flex;
+      flex-direction: column;
+    }
+}
