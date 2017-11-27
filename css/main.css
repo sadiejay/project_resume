@@ -21,6 +21,10 @@ body {
     color: #0a1f23;
 }
 
+.container {
+    padding: .75rem;
+}
+
 header,
 h2 {
     color: #7B2D26;
@@ -40,6 +44,6 @@ header img {
     image-orientation: 90deg;
 }
 
-header p{
+header p {
     font-size: 1.25rem;
 }
